@@ -1,1 +1,2 @@
-body {background-color:black;color:white;}
+@font-face {font-family:"DelaGothicOne";src:url(DelaGothicOne.ttf);}
+body {background-color:black;color:white;font-family:"DelaGothicOne";}
